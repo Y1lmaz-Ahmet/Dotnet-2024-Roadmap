@@ -7,6 +7,18 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01-Classes", "01-Classes", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes", "Classes\Classes.csproj", "{9D898F55-EA71-4BDC-BE2B-824ACB60BAFB}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02-Operators", "02-Operators", "{AD2EF5CB-A083-48D2-8836-971A62307615}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03-Acces-Modifiers", "03-Acces-Modifiers", "{A29A50A8-ED4C-489C-AFDF-7221E6B12B72}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04-Assemblies", "04-Assemblies", "{6DE36639-2D12-4CBD-A11E-F7179268E2BB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05-Virtual-Keyword", "05-Virtual-Keyword", "{E2B3A1DE-18B0-4334-9346-6B1A4661648B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06-Parameter-Types", "06-Parameter-Types", "{12D3C1EC-10FF-4AD3-828C-EEDC13F51E11}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07-Generics", "07-Generics", "{C8862840-10A5-4EDB-B1F0-17075BAC54FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
