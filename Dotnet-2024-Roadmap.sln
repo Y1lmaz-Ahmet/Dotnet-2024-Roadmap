@@ -19,6 +19,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06-Parameter-Types", "06-Pa
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07-Generics", "07-Generics", "{C8862840-10A5-4EDB-B1F0-17075BAC54FC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operators", "Operators\Operators.csproj", "{9B4ECFF4-EBCC-4DB8-BA84-AF86B325D4CA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,12 +31,17 @@ Global
 		{9D898F55-EA71-4BDC-BE2B-824ACB60BAFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9D898F55-EA71-4BDC-BE2B-824ACB60BAFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9D898F55-EA71-4BDC-BE2B-824ACB60BAFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B4ECFF4-EBCC-4DB8-BA84-AF86B325D4CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B4ECFF4-EBCC-4DB8-BA84-AF86B325D4CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B4ECFF4-EBCC-4DB8-BA84-AF86B325D4CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B4ECFF4-EBCC-4DB8-BA84-AF86B325D4CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{9D898F55-EA71-4BDC-BE2B-824ACB60BAFB} = {AF24E24D-F004-48F3-B520-CFB283D22638}
+		{9B4ECFF4-EBCC-4DB8-BA84-AF86B325D4CA} = {AD2EF5CB-A083-48D2-8836-971A62307615}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AC53B558-E924-46FC-90DE-0672FDB6C7F5}
