@@ -21,6 +21,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07-Generics", "07-Generics"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operators", "Operators\Operators.csproj", "{9B4ECFF4-EBCC-4DB8-BA84-AF86B325D4CA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Acces-Modifiers", "Acces-Modifiers\Acces-Modifiers.csproj", "{F37C9205-F9B4-46B5-8C98-705852C0B872}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +37,10 @@ Global
 		{9B4ECFF4-EBCC-4DB8-BA84-AF86B325D4CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B4ECFF4-EBCC-4DB8-BA84-AF86B325D4CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B4ECFF4-EBCC-4DB8-BA84-AF86B325D4CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F37C9205-F9B4-46B5-8C98-705852C0B872}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F37C9205-F9B4-46B5-8C98-705852C0B872}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F37C9205-F9B4-46B5-8C98-705852C0B872}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F37C9205-F9B4-46B5-8C98-705852C0B872}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -42,6 +48,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{9D898F55-EA71-4BDC-BE2B-824ACB60BAFB} = {AF24E24D-F004-48F3-B520-CFB283D22638}
 		{9B4ECFF4-EBCC-4DB8-BA84-AF86B325D4CA} = {AD2EF5CB-A083-48D2-8836-971A62307615}
+		{F37C9205-F9B4-46B5-8C98-705852C0B872} = {A29A50A8-ED4C-489C-AFDF-7221E6B12B72}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AC53B558-E924-46FC-90DE-0672FDB6C7F5}
