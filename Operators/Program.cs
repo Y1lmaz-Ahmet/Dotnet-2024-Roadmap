@@ -42,6 +42,6 @@ class Program
         bool isGreaterOrEqual = (x >= y);   // Greater than or equal to
         Console.WriteLine($"[IS GREATER OR EQUAL] => {nameof(isGreaterOrEqual)}: x >= y output is  {isGreaterOrEqual}");
         bool isLessOrEqual = (x <= y);  // Less than or equal to
-        Console.WriteLine($"[IS LESS OR EQUAL] => {nameof(isLessOrEqual)}: x <= y output is  {isLessOrEqual}");
+        Console.WriteLine($"[IS LESS OR EQUAL] => {nameof(isLessOrEqual)}: x <= y output is  {isLessOrEqual} ");
     }
 }
