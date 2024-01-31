@@ -1,0 +1,2 @@
+Hello, this is a sample text V2.0
+My Name is Ahmet Yilmaz and I'm learning file IO basic concepts right now.
