@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Virtual-Keyword", "Virtual-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parameter-Types", "Parameter-Types\Parameter-Types.csproj", "{397A21F5-5C97-42EC-AB15-41FADCFF4859}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{E0D03E8A-A4A0-4073-8E8A-BDE5AEDD9EEE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -59,6 +61,10 @@ Global
 		{397A21F5-5C97-42EC-AB15-41FADCFF4859}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{397A21F5-5C97-42EC-AB15-41FADCFF4859}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{397A21F5-5C97-42EC-AB15-41FADCFF4859}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0D03E8A-A4A0-4073-8E8A-BDE5AEDD9EEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0D03E8A-A4A0-4073-8E8A-BDE5AEDD9EEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0D03E8A-A4A0-4073-8E8A-BDE5AEDD9EEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0D03E8A-A4A0-4073-8E8A-BDE5AEDD9EEE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -70,6 +76,7 @@ Global
 		{1DAEEC31-3225-4204-B5AE-9B65930C101E} = {6DE36639-2D12-4CBD-A11E-F7179268E2BB}
 		{B29708D2-471D-4195-8A5F-1B9DA685B867} = {E2B3A1DE-18B0-4334-9346-6B1A4661648B}
 		{397A21F5-5C97-42EC-AB15-41FADCFF4859} = {12D3C1EC-10FF-4AD3-828C-EEDC13F51E11}
+		{E0D03E8A-A4A0-4073-8E8A-BDE5AEDD9EEE} = {C8862840-10A5-4EDB-B1F0-17075BAC54FC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AC53B558-E924-46FC-90DE-0672FDB6C7F5}
