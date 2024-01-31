@@ -4,7 +4,7 @@ Generics in C# provide a powerful way to write flexible and reusable code that c
 
 ## Introduction to Generics
 
-Generics allow you to define classes, interfaces, methods, and delegates with placeholders for the data type they operate on. This enables you to create code that is not bound to a specific data type and promotes code reusability.
+Generics allow you to define `classes`, `interfaces`, `methods`, and `delegates` with **placeholders** for the data type they operate on. This enables you to create code that is not bound to a specific data type and promotes code reusability.
 
 ## `Human<T>` Class
 
