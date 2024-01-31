@@ -50,6 +50,7 @@ Understanding parameter types is essential in C# programming, as it dictates how
 
 ## Configuration
 ![Configuration](https://github.com/Y1lmaz-Ahmet/Dotnet-2024-Roadmap/blob/master/Parameter-Types/example-images/example-configuring.png)
+![Output](https://github.com/Y1lmaz-Ahmet/Dotnet-2024-Roadmap/blob/master/Parameter-Types/example-images/result.png)
 ## Conclusion
 
 Understanding these parameter types is crucial for effective C# programming. Each type serves a specific purpose, and choosing the right one depends on the requirements of your methods. Experiment with different scenarios to gain a practical understanding of how each type behaves.
