@@ -69,6 +69,29 @@ Once loaded, you can parse XML data into objects using `XDocument.Descendants`. 
             human.Element("City").Value))
         .ToList();
 ```
+### Person Class for this example
+```
+public class Person
+    {
+        public string Name { get; set; }
+        public int Age { get; set; }
+        public string City { get; set; }
+
+        // Constructor for the Person class
+        public Person(string name, int age, string city)
+        {
+            Name = name;
+            Age = age;
+            City = city;
+        }
+
+        // Method to print details of the person
+        public void PrintPersonDetails()
+        {
+            Console.WriteLine($"Hello, my name is {Name}.\nI'm {Age} years old.\nI live in {City}");
+        }
+    }
+```
 ### Using `Person` Objects
 
 The list of `Person` objects is then iterated, and each person's details, including name, age, and city, are printed to the console.
