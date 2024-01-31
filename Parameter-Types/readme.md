@@ -5,7 +5,7 @@
 Understanding parameter types is essential in C# programming, as it dictates how information is passed to methods. This README provides an in-depth explanation of various parameter types, including pass by value, pass by reference, output parameters, and parameter arrays.
 
 ## Pass by Value
-[PassByValue](https://github.com/Y1lmaz-Ahmet/Dotnet-2024-Roadmap/blob/master/Parameter-Types/example-images/PassByValue.png)
+![PassByValue](https://github.com/Y1lmaz-Ahmet/Dotnet-2024-Roadmap/blob/master/Parameter-Types/example-images/PassByValue.png)
 
 ### Overview
 
@@ -17,7 +17,7 @@ Understanding parameter types is essential in C# programming, as it dictates how
   - Use when you want to preserve the original value outside the method.
 
 ## Pass by Reference
-[PassByReference](https://github.com/Y1lmaz-Ahmet/Dotnet-2024-Roadmap/blob/master/Parameter-Types/example-images/PassByReference.png)
+![PassByReference](https://github.com/Y1lmaz-Ahmet/Dotnet-2024-Roadmap/blob/master/Parameter-Types/example-images/PassByReference.png)
 ### Overview
 
 - **What Happens?**
@@ -28,7 +28,7 @@ Understanding parameter types is essential in C# programming, as it dictates how
   - Use when you want changes in the method to affect the original value outside the method.
 
 ## Output Parameters
-[PassByOutput](https://github.com/Y1lmaz-Ahmet/Dotnet-2024-Roadmap/blob/master/Parameter-Types/example-images/PassByOutput.png)
+![PassByOutput](https://github.com/Y1lmaz-Ahmet/Dotnet-2024-Roadmap/blob/master/Parameter-Types/example-images/PassByOutput.png)
 ### Overview
 
 - **What Happens?**
@@ -39,7 +39,7 @@ Understanding parameter types is essential in C# programming, as it dictates how
   - Use when you want a method to return a value, and the parameter doesn't need to be initialized before the method is called.
 
 ## Parameter Arrays
-[UseParams](https://github.com/Y1lmaz-Ahmet/Dotnet-2024-Roadmap/blob/master/Parameter-Types/example-images/UseParams.png)
+![UseParams](https://github.com/Y1lmaz-Ahmet/Dotnet-2024-Roadmap/blob/master/Parameter-Types/example-images/UseParams.png)
 ### Overview
 
 - **What Happens?**
@@ -49,7 +49,7 @@ Understanding parameter types is essential in C# programming, as it dictates how
   - Use when you want a method to accept different numbers of arguments.
 
 ## Configuration
-[Configuration](https://github.com/Y1lmaz-Ahmet/Dotnet-2024-Roadmap/blob/master/Parameter-Types/example-images/example-configuring.png)
+![Configuration](https://github.com/Y1lmaz-Ahmet/Dotnet-2024-Roadmap/blob/master/Parameter-Types/example-images/example-configuring.png)
 ## Conclusion
 
 Understanding these parameter types is crucial for effective C# programming. Each type serves a specific purpose, and choosing the right one depends on the requirements of your methods. Experiment with different scenarios to gain a practical understanding of how each type behaves.
