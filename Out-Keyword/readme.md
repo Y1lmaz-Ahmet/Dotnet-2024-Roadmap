@@ -1,8 +1,22 @@
-# Understanding the C# `out` Keyword
+﻿# Understanding the C# `out` Keyword
 
 ## Overview
 
 The `out` keyword in C# is utilized to indicate that a parameter in a method is designated for returning data. Unlike the `ref` keyword, the `out` parameter is not required to be initialized before being passed to the method. This allows methods to effectively return multiple values.
+
+`out` **&** `ref` 😵‍💫??
+
+```C# - for out
+int result; // Initialization NOT required for 'out' so result has no value.
+AddNumber(10,9,out result);
+```
+
+```C# - for ref
+int result = 0; // Initialization required for 'ref' so result has a value of 0.
+AddNumber(10,9,ref result);
+```
+
+
 
 ## Why Use the `out` Keyword?
 
