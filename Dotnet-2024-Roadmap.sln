@@ -51,6 +51,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "12-Casting-and-typeConversi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Casting-TypeConversion", "Casting-TypeConversion\Casting-TypeConversion.csproj", "{393AA4EF-3436-486C-ACE1-5B308ECB7C7C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "13-Collections", "13-Collections", "{3E401323-40B1-4760-A2CD-8F653396C08F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections", "Collections\Collections.csproj", "{BA9DA09D-F1FC-46B3-BC14-BDD151253A7E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +109,10 @@ Global
 		{393AA4EF-3436-486C-ACE1-5B308ECB7C7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{393AA4EF-3436-486C-ACE1-5B308ECB7C7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{393AA4EF-3436-486C-ACE1-5B308ECB7C7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA9DA09D-F1FC-46B3-BC14-BDD151253A7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA9DA09D-F1FC-46B3-BC14-BDD151253A7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA9DA09D-F1FC-46B3-BC14-BDD151253A7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA9DA09D-F1FC-46B3-BC14-BDD151253A7E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -122,6 +130,7 @@ Global
 		{71B3CDE6-776D-4EA7-8E27-FF922ED2E4A0} = {2F2A55A5-2EEE-4A64-8961-9A51B8ACC0FB}
 		{55D0C07D-9DDF-4C55-B1D2-75A445F1D685} = {9CB5E7A0-EF59-4A30-807A-E59ACCE1BCEF}
 		{393AA4EF-3436-486C-ACE1-5B308ECB7C7C} = {8192E07B-9A63-4861-B780-5A94E79DBF0A}
+		{BA9DA09D-F1FC-46B3-BC14-BDD151253A7E} = {3E401323-40B1-4760-A2CD-8F653396C08F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AC53B558-E924-46FC-90DE-0672FDB6C7F5}
