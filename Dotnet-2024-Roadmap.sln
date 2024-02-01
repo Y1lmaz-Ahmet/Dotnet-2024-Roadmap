@@ -43,6 +43,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "10-Out-keyword", "10-Out-ke
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Out-Keyword", "Out-Keyword\Out-Keyword.csproj", "{71B3CDE6-776D-4EA7-8E27-FF922ED2E4A0}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "11-Interfaces", "11-Interfaces", "{9CB5E7A0-EF59-4A30-807A-E59ACCE1BCEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{55D0C07D-9DDF-4C55-B1D2-75A445F1D685}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -89,6 +93,10 @@ Global
 		{71B3CDE6-776D-4EA7-8E27-FF922ED2E4A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71B3CDE6-776D-4EA7-8E27-FF922ED2E4A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71B3CDE6-776D-4EA7-8E27-FF922ED2E4A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55D0C07D-9DDF-4C55-B1D2-75A445F1D685}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55D0C07D-9DDF-4C55-B1D2-75A445F1D685}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55D0C07D-9DDF-4C55-B1D2-75A445F1D685}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55D0C07D-9DDF-4C55-B1D2-75A445F1D685}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -104,6 +112,7 @@ Global
 		{D37591BD-0EAB-4523-A063-1D58D14E2A03} = {0C89B3FF-E2D4-4CD8-9CC4-4EF4E1FE94B9}
 		{349B1476-6058-4FD3-AB5C-024BEC5C6E31} = {A3C3BEB3-F87D-4608-BF0D-C28C3EE992D5}
 		{71B3CDE6-776D-4EA7-8E27-FF922ED2E4A0} = {2F2A55A5-2EEE-4A64-8961-9A51B8ACC0FB}
+		{55D0C07D-9DDF-4C55-B1D2-75A445F1D685} = {9CB5E7A0-EF59-4A30-807A-E59ACCE1BCEF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AC53B558-E924-46FC-90DE-0672FDB6C7F5}
