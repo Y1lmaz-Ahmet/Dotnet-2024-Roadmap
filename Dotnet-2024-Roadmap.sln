@@ -67,7 +67,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism", "OOP-Polymor
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Encapsulation", "Encapsulation", "{F5784192-2AF7-4A3D-84B7-28BE4A79BC05}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulation", "Encapsulation\Encapsulation.csproj", "{00CAFE34-FF32-469E-A9D1-81C6B25B3F8F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP-Encapsulation", "Encapsulation\OOP-Encapsulation.csproj", "{00CAFE34-FF32-469E-A9D1-81C6B25B3F8F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
