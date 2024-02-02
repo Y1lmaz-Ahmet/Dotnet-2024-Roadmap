@@ -45,17 +45,17 @@ public void PrintInfo()
 
 - **Main Method:**
   - Creates three instances of the `Hero` class (`hero1`, `hero2`, and `hero3`) with different attributes.
-        ```csharp
+```csharp
       Hero hero1 = new Hero("Superman", 10, 90, 1.95, 100);
             Hero hero2 = new Hero("Batman", 8, 70, 1.82, 80);
             Hero hero3 = new Hero("Wonder Woman", 12, 80, 1.78, 120);
-        ```
+```
   - Calls the `PrintInfo()` method for each hero to display their details individually.
-        ```csharp
+```csharp
          hero1.PrintInfo();
                 hero2.PrintInfo();
                 hero3.PrintInfo();
-          ```
+```
 - **List and Foreach Loop:**
   - Creates a list (`heroes`) containing the previously created heroes.
   ```csharp
@@ -65,18 +65,18 @@ public void PrintInfo()
         };
     ```
   - Includes an index to track the position of each hero in the list.
-  ```csharp
+```csharp
     int heroesListIndex = 0;
-    ```
+```
     - Uses a `foreach` loop to iterate through the list and print each hero's details.
-        ```csharp
+```csharp
          foreach(Hero hero in heroes)
         {
             Console.Write($"[HEROESlist]:{hero.Name} found on index {heroesListIndex}\t");
             hero.PrintInfo();
             heroesListIndex++;
         }
-        ```
+```
 
 ## Conclusion
 
