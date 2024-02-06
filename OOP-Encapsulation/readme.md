@@ -13,4 +13,18 @@
 - **Why**: Improves code organization, making it **more modular** and **easier to understand**.
 
 # Pros and Cons of Encapsulation
-`coming next`
+
+## Pros:
+
+### 1. Data Integrity:
+- **Pro:** Prevents accidental modification of internal data, maintaining data integrity.
+
+### 2. Code maintenance:
+- **Pro:** Facilitates easier code maintenance by isolating changes withing the class.
+
+### 3. Security:
+- **Pro:** Enhances security by restricting direct acces to internal implementation details.
+
+### 4. Abstraction:
+- **Pro:** Encapsulation allow for **abstraction**, focusing on `what` **the class does rather than `how` it does** it!!
+
