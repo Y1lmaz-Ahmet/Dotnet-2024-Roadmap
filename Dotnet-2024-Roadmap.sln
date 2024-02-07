@@ -3,39 +3,41 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-L-Classes", "01-LClasses\01-L-Classes.csproj", "{4B79EDCD-FB92-4CCB-AD9B-D714B40E4305}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01-L-Classes", "01-LClasses\01-L-Classes.csproj", "{4B79EDCD-FB92-4CCB-AD9B-D714B40E4305}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-L-Operators", "02-LOperators\02-L-Operators.csproj", "{BBBCB85B-94CE-457A-9062-27296C3E1BE5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02-L-Operators", "02-LOperators\02-L-Operators.csproj", "{BBBCB85B-94CE-457A-9062-27296C3E1BE5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-L-Acces-Modifiers", "03-L-Acces-Modifiers\03-L-Acces-Modifiers.csproj", "{C3E28B0E-C65F-46E6-9F98-06D16D1004E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03-L-Acces-Modifiers", "03-L-Acces-Modifiers\03-L-Acces-Modifiers.csproj", "{C3E28B0E-C65F-46E6-9F98-06D16D1004E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-L-Assemblies", "04-L-Assemblies\04-L-Assemblies.csproj", "{20AD6C11-81A8-407E-A2DC-7E294E597D9D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04-L-Assemblies", "04-L-Assemblies\04-L-Assemblies.csproj", "{20AD6C11-81A8-407E-A2DC-7E294E597D9D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-L-Virtual-Keyword", "05-L-Virtual-Keyword\05-L-Virtual-Keyword.csproj", "{648A51BF-D4D4-42BB-BFC6-C568BFCACA79}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05-L-Virtual-Keyword", "05-L-Virtual-Keyword\05-L-Virtual-Keyword.csproj", "{648A51BF-D4D4-42BB-BFC6-C568BFCACA79}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-L-Parameter-Types", "06-L-Parameter-Types\06-L-Parameter-Types.csproj", "{410A57BA-111A-4769-B076-BF8BA76CDA81}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06-L-Parameter-Types", "06-L-Parameter-Types\06-L-Parameter-Types.csproj", "{410A57BA-111A-4769-B076-BF8BA76CDA81}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07-L-Generics", "07-L-Generics\07-L-Generics.csproj", "{24CEAE4E-4A75-43D4-AFC2-455D227113E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07-L-Generics", "07-L-Generics\07-L-Generics.csproj", "{24CEAE4E-4A75-43D4-AFC2-455D227113E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08-L-FileIO", "08-L-FileIO\08-L-FileIO.csproj", "{2026B154-88B3-4B8E-91B1-CE07919C783E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08-L-FileIO", "08-L-FileIO\08-L-FileIO.csproj", "{2026B154-88B3-4B8E-91B1-CE07919C783E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09-L-ValueTypes-and-ReferenceTypes", "09-L-ValueTypes-and-ReferenceTypes\09-L-ValueTypes-and-ReferenceTypes.csproj", "{CAE9BEBE-DAA9-4325-9381-B92E75643CE6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09-L-ValueTypes-and-ReferenceTypes", "09-L-ValueTypes-and-ReferenceTypes\09-L-ValueTypes-and-ReferenceTypes.csproj", "{CAE9BEBE-DAA9-4325-9381-B92E75643CE6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10-L-Output-Keyword", "10-L-Output-Keyword\10-L-Output-Keyword.csproj", "{4C46E12A-A00F-4B38-9A9A-95EC197C4CBC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10-L-Output-Keyword", "10-L-Output-Keyword\10-L-Output-Keyword.csproj", "{4C46E12A-A00F-4B38-9A9A-95EC197C4CBC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11-L-Interfaces", "11-L-Interfaces\11-L-Interfaces.csproj", "{9CB25546-6F2C-43F4-8972-91128C6E32B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11-L-Interfaces", "11-L-Interfaces\11-L-Interfaces.csproj", "{9CB25546-6F2C-43F4-8972-91128C6E32B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12-L-Casting-and-typeConversion", "12-L-Casting-and-typeConversion\12-L-Casting-and-typeConversion.csproj", "{A5C973CA-D83B-4D1D-ABDD-0B5DB39270B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12-L-Casting-and-typeConversion", "12-L-Casting-and-typeConversion\12-L-Casting-and-typeConversion.csproj", "{A5C973CA-D83B-4D1D-ABDD-0B5DB39270B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13-L-Collections", "13-L-Collections\13-L-Collections.csproj", "{EEF379EB-E95D-4649-88AD-0E6D31C249C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13-L-Collections", "13-L-Collections\13-L-Collections.csproj", "{EEF379EB-E95D-4649-88AD-0E6D31C249C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15-L-CustomExceptions", "15-L-CustomExceptions\15-L-CustomExceptions.csproj", "{B5B7E59E-2696-4069-B888-0F2781B32D43}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15-L-CustomExceptions", "15-L-CustomExceptions\15-L-CustomExceptions.csproj", "{B5B7E59E-2696-4069-B888-0F2781B32D43}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.1-L-Object-Oriented-Programming-Classes", "14.1-L-Object-Oriented-Programming-Classes\14.1-L-Object-Oriented-Programming-Classes.csproj", "{926E769D-6E6A-48BF-8ED3-75429DEB8716}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14.1-L-Object-Oriented-Programming-Classes", "14.1-L-Object-Oriented-Programming-Classes\14.1-L-Object-Oriented-Programming-Classes.csproj", "{926E769D-6E6A-48BF-8ED3-75429DEB8716}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.2-L-Object-Oriented-programming-Encapsulation", "14.2-L-Object-Oriented-programming-Encapsulation\14.2-L-Object-Oriented-programming-Encapsulation.csproj", "{86FDF41C-8CCD-44F4-B83A-9C8BF0FBAA0C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14.2-L-Object-Oriented-programming-Encapsulation", "14.2-L-Object-Oriented-programming-Encapsulation\14.2-L-Object-Oriented-programming-Encapsulation.csproj", "{86FDF41C-8CCD-44F4-B83A-9C8BF0FBAA0C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.3-L-Object-Oriented-programming-Polymorphism", "14.3-L-Object-Oriented-programming-Polymorphism\14.3-L-Object-Oriented-programming-Polymorphism.csproj", "{C10D2672-0014-4BC0-9396-80DB0CA4B94A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14.3-L-Object-Oriented-programming-Polymorphism", "14.3-L-Object-Oriented-programming-Polymorphism\14.3-L-Object-Oriented-programming-Polymorphism.csproj", "{C10D2672-0014-4BC0-9396-80DB0CA4B94A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16-DesignPatterns-Repository", "16-DesignPatterns-Repository\16-DesignPatterns-Repository.csproj", "{EB618FFB-FE2C-45C3-BDE1-71620154D746}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{C10D2672-0014-4BC0-9396-80DB0CA4B94A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C10D2672-0014-4BC0-9396-80DB0CA4B94A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C10D2672-0014-4BC0-9396-80DB0CA4B94A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB618FFB-FE2C-45C3-BDE1-71620154D746}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB618FFB-FE2C-45C3-BDE1-71620154D746}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB618FFB-FE2C-45C3-BDE1-71620154D746}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB618FFB-FE2C-45C3-BDE1-71620154D746}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
