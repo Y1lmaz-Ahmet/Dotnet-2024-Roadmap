@@ -71,7 +71,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP-Encapsulation", "OOP-En
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "15-CustomExceptions", "15-CustomExceptions", "{CBD1B27E-DEE3-4D18-BD59-70ECFED55622}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomException", "CustomException\CustomException.csproj", "{D5844872-3F30-45FD-9F6E-ABF9AAAAA4AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomException", "CustomException\CustomException.csproj", "{D5844872-3F30-45FD-9F6E-ABF9AAAAA4AE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "16-RepositoryPattern", "16-RepositoryPattern", "{2ECD7B5A-39F8-4D3F-9427-45BC2B25E328}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Models", "Models", "{8A3AC08D-3558-41EC-8F9D-AB1829B440CB}"
+	ProjectSection(SolutionItems) = preProject
+		Student.cs = Student.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Repositories", "Repositories", "{A3EAA5A9-ADFC-4639-B3C9-957495528B79}"
+	ProjectSection(SolutionItems) = preProject
+		IStudent.cs = IStudent.cs
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -172,6 +184,8 @@ Global
 		{C9ACF77A-2ED5-46EF-8FD3-2FD4A233E367} = {8D3AD3EB-01D3-4A2C-A07A-FED3D48AAF07}
 		{9D01A635-41AC-4E72-9338-05E4733783EB} = {C9ACF77A-2ED5-46EF-8FD3-2FD4A233E367}
 		{D5844872-3F30-45FD-9F6E-ABF9AAAAA4AE} = {CBD1B27E-DEE3-4D18-BD59-70ECFED55622}
+		{8A3AC08D-3558-41EC-8F9D-AB1829B440CB} = {2ECD7B5A-39F8-4D3F-9427-45BC2B25E328}
+		{A3EAA5A9-ADFC-4639-B3C9-957495528B79} = {2ECD7B5A-39F8-4D3F-9427-45BC2B25E328}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AC53B558-E924-46FC-90DE-0672FDB6C7F5}
