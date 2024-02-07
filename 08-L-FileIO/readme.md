@@ -12,7 +12,7 @@ File I/O involves interacting with files, including creating, reading, updating,
 
 Before working with files, you need to specify the file path, including the folder path and the file name.
 ```     //Combine folder path and file name to get the full file path for the text file
-        string folderPath = Path.Combine("C:", "Users", "Yilmaz", "source", "repos", "Dotnet-2024-Roadmap", "FileIO");
+        string folderPath = Path.Combine("C:", "Users", "Yilmaz", "source", "repos", "Dotnet-2024-Roadmap", "08-L-FileIO");
         string fileName = "example.txt";
         string filePath = Path.Combine(folderPath, fileName); 
 ```
@@ -46,7 +46,7 @@ To read from a file, you can use `StreamReader`. In the example, the content of 
 ### Defining path of the XML Document
 ```
         // Define paths for the XML document
-        string Folderpath = Path.Combine("C:", "Users", "Yilmaz", "source", "repos", "Dotnet-2024-Roadmap", "FileIO");
+        string Folderpath = Path.Combine("C:", "Users", "Yilmaz", "source", "repos", "Dotnet-2024-Roadmap", "08-L-FileIO");
         string XMLDocumentName = "persons.xml";
         string documentPath = Path.Combine(Folderpath, XMLDocumentName);
 ```
