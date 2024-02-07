@@ -37,8 +37,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14.2-L-Object-Oriented-prog
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14.3-L-Object-Oriented-programming-Polymorphism", "14.3-L-Object-Oriented-programming-Polymorphism\14.3-L-Object-Oriented-programming-Polymorphism.csproj", "{C10D2672-0014-4BC0-9396-80DB0CA4B94A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16-DesignPatterns-Repository", "16-DesignPatterns-Repository\16-DesignPatterns-Repository.csproj", "{EB618FFB-FE2C-45C3-BDE1-71620154D746}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -113,10 +111,6 @@ Global
 		{C10D2672-0014-4BC0-9396-80DB0CA4B94A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C10D2672-0014-4BC0-9396-80DB0CA4B94A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C10D2672-0014-4BC0-9396-80DB0CA4B94A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{EB618FFB-FE2C-45C3-BDE1-71620154D746}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EB618FFB-FE2C-45C3-BDE1-71620154D746}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EB618FFB-FE2C-45C3-BDE1-71620154D746}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EB618FFB-FE2C-45C3-BDE1-71620154D746}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
